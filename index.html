@@ -1,1 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M3U to XMLTV Converter</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        textarea, input[type="file"], input[type="text"] {
+            width: 100%;
+            margin: 10px 0;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        #xmltvLink {
+            margin-top: 20px;
+            font-size: 16px;
+            word-wrap: break-word;
+            white-space: pre-wrap;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>M3U to XMLTV Converter</h1>
+        <input type="file" id="m3uFile" accept=".m3u">
+        <textarea id="epgData" rows="5" placeholder="Enter program data here (e.g. Show 1, 00:00 - 01:00)"></textarea>
+        <button onclick="convertM3UToXMLTV()">Convert</button>
+        
+        <!-- XMLTV Link Display -->
+        <div id="xmltvLink" style="display:none;">
+            <p>Copy the link below and paste it into xTeVe's XMLTV URL field:</p>
+            <pre id="generatedXMLTVLink"></pre>
+        </div>
+    </div>
 
+    <script>
+        function convertM3UToXMLTV() {
+            const m3uFileInput = document.getElementById('m3uFile');
+            const epgDataInput = document.getElementById('epgData').value.trim();
+            const xmltvLinkContainer = document.getElementById('xmltvLink');
+            const generatedXMLTVLink = document.getElementById('generatedXMLTVLink');
+            
+            if (!m3uFileInput.files[0]) {
+                alert("Please upload an M3U file.");
+                return;
+            }
+
+            const reader = new FileReader();
+            reader.onload = function(event) {
+                const m3uContent = event.target.result;
+                const channels = extractChannelsFromM3U(m3uContent);
+
+                let xmltvContent = '<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n';
+
+                // Add channels to XMLTV content
+                channels.forEach((channel, index) => {
+                    xmltvContent += `<channel id="channel${index + 1}">\n<display-name>${channel}</display-name>\n</channel>\n`;
+                });
+
+                // Add EPG data (simple example, you can expand this)
+                if (epgDataInput) {
+                    const epgItems = epgDataInput.split('\n');
+                    epgItems.forEach((item, index) => {
+                        const [title, time] = item.split(',');
+                        const [start, end] = time.trim().split('-');
+                        xmltvContent += `<programme start="20240101000000 +0000" stop="20240101010000 +0000" channel="channel${index + 1}">\n`;
+                        xmltvContent += `<title>${title.trim()}</title>\n`;
+                        xmltvContent += `</programme>\n`;
+                    });
+                }
+
+                xmltvContent += '</tv>';
+
+                // Simulate uploading or hosting the file to get the URL
+                // You can replace the link below with the actual hosted link
+                const hostedXMLTVURL = "https://your-site-name.netlify.app/output.xmltv"; // or GitHub Pages URL
+
+                // Display the XMLTV URL for xTeVe
+                generatedXMLTVLink.textContent = hostedXMLTVURL;
+                xmltvLinkContainer.style.display = 'block'; // Make the XMLTV link visible
+            };
+
+            reader.readAsText(m3uFileInput.files[0]);
+        }
+
+        function extractChannelsFromM3U(m3uContent) {
+            const channels = [];
+            const lines = m3uContent.split('\n');
+            let currentChannel = '';
+
+            lines.forEach(line => {
+                if (line.startsWith('#EXTINF')) {
+                    const channelName = line.split(',')[1].trim();
+                    currentChannel = channelName;
+                }
+                if (line.startsWith('http://') || line.startsWith('https://')) {
+                    channels.push(currentChannel);
+                }
+            });
+
+            return channels;
+        }
+    </script>
+</body>
+</html>
