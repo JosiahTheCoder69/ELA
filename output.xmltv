@@ -43,7 +43,7 @@
 <display-name>8NTV (1080p)</display-name>
 </channel>
 <channel id="channel15">
-<display-name>12 Visión Encarnación (1080p) [Not 24/7]</display-name>
+<display-name>12 VisiÃ³n EncarnaciÃ³n (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel16">
 <display-name>15tv Sabinas (XHSDD-TDT) (360p)</display-name>
@@ -133,7 +133,7 @@
 <display-name>90210</display-name>
 </channel>
 <channel id="channel45">
-<display-name>¡OPA! (1080p)</display-name>
+<display-name>Â¡OPA! (1080p)</display-name>
 </channel>
 <channel id="channel46">
 <display-name>A Million Little Things</display-name>
@@ -508,7 +508,7 @@
 <display-name>AFV (720p)</display-name>
 </channel>
 <channel id="channel170">
-<display-name>AFV en Español (720p) [Not 24/7]</display-name>
+<display-name>AFV en EspaÃ±ol (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel171">
 <display-name>AFV Family</display-name>
@@ -568,10 +568,10 @@
 <display-name>Alegre TV (720p)</display-name>
 </channel>
 <channel id="channel190">
-<display-name>Alerte à Malibu</display-name>
+<display-name>Alerte Ã  Malibu</display-name>
 </channel>
 <channel id="channel191">
-<display-name>Alfa & Omega Vision (480p) [Not 24/7]</display-name>
+<display-name>Alfa and Omega Vision (480p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel192">
 <display-name>Alhurra Iraq (720p)</display-name>
@@ -595,7 +595,7 @@
 <display-name>Alkarma TV Middle East (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel199">
-<display-name>Alkarma TV North America & Canada (1080p) [Not 24/7]</display-name>
+<display-name>Alkarma TV North America and Canada (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel200">
 <display-name>Alkarma TV Praise (720p) [Not 24/7]</display-name>
@@ -604,7 +604,7 @@
 <display-name>Alkarma TV Talmaza (Discipleship) (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel202">
-<display-name>Alkarma TV Youth & English (1080p) [Not 24/7]</display-name>
+<display-name>Alkarma TV Youth and English (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel203">
 <display-name>Alkerazatv (720p)</display-name>
@@ -619,7 +619,7 @@
 <display-name>Almagd TV North America (1080p)</display-name>
 </channel>
 <channel id="channel207">
-<display-name>Alsacias Televisión (ATV | Canal 28) (720p)</display-name>
+<display-name>Alsacias TelevisiÃ³n (ATV | Canal 28) (720p)</display-name>
 </channel>
 <channel id="channel208">
 <display-name>Altanto TV (720p)</display-name>
@@ -631,7 +631,7 @@
 <display-name>Always Funny Videos (720p)</display-name>
 </channel>
 <channel id="channel211">
-<display-name>Always Funny: Pranks & Fails (720p)</display-name>
+<display-name>Always Funny: Pranks and Fails (720p)</display-name>
 </channel>
 <channel id="channel212">
 <display-name>Amantes del romance</display-name>
@@ -649,13 +649,13 @@
 <display-name>AMC East (1080p)</display-name>
 </channel>
 <channel id="channel217">
-<display-name>AMC en español</display-name>
+<display-name>AMC en espaÃ±ol</display-name>
 </channel>
 <channel id="channel218">
-<display-name>Amé 47 (720p)</display-name>
+<display-name>AmÃ© 47 (720p)</display-name>
 </channel>
 <channel id="channel219">
-<display-name>América TeVé (720p)</display-name>
+<display-name>AmÃ©rica TeVÃ© (720p)</display-name>
 </channel>
 <channel id="channel220">
 <display-name>America's Test Kitchen</display-name>
@@ -751,7 +751,7 @@
 <display-name>Apple68 TV (1080p)</display-name>
 </channel>
 <channel id="channel251">
-<display-name>Árbol de Vida TV (240p) [Not 24/7]</display-name>
+<display-name>Ãrbol de Vida TV (240p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel252">
 <display-name>Architectural Digest (720p)</display-name>
@@ -793,7 +793,7 @@
 <display-name>Asamblea TV (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel265">
-<display-name>Así Sucede Guanajuato (720p) [Not 24/7]</display-name>
+<display-name>AsÃ­ Sucede Guanajuato (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel266">
 <display-name>AsianCrush</display-name>
@@ -808,7 +808,7 @@
 <display-name>AspireTV Life</display-name>
 </channel>
 <channel id="channel270">
-<display-name>Assemblée Nationale du Québec</display-name>
+<display-name>AssemblÃ©e Nationale du QuÃ©bec</display-name>
 </channel>
 <channel id="channel271">
 <display-name>Assyrian ANB (720p)</display-name>
@@ -892,7 +892,7 @@
 <display-name>B15 (1080p)</display-name>
 </channel>
 <channel id="channel298">
-<display-name>Baby Alive Français</display-name>
+<display-name>Baby Alive FranÃ§ais</display-name>
 </channel>
 <channel id="channel299">
 <display-name>Baby Shark TV</display-name>
@@ -949,7 +949,7 @@
 <display-name>BBC Food</display-name>
 </channel>
 <channel id="channel317">
-<display-name>BBC Home & Garden</display-name>
+<display-name>BBC Home and Garden</display-name>
 </channel>
 <channel id="channel318">
 <display-name>BBC News</display-name>
@@ -967,19 +967,19 @@
 <display-name>BBC Toronto Gaunda Punjab (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel323">
-<display-name>BD Televisión (720p)</display-name>
+<display-name>BD TelevisiÃ³n (720p)</display-name>
 </channel>
 <channel id="channel324">
 <display-name>Beach TV CSULB (160p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel325">
-<display-name>Beach TV Florida & Alabama (720p)</display-name>
+<display-name>Beach TV Florida and Alabama (720p)</display-name>
 </channel>
 <channel id="channel326">
-<display-name>Beach TV Key West & Florida Keys (720p)</display-name>
+<display-name>Beach TV Key West and Florida Keys (720p)</display-name>
 </channel>
 <channel id="channel327">
-<display-name>Beach TV Myrtle Beach & The Grand Strand (720p)</display-name>
+<display-name>Beach TV Myrtle Beach and The Grand Strand (720p)</display-name>
 </channel>
 <channel id="channel328">
 <display-name>Beach TV Panama City (720p)</display-name>
@@ -1003,7 +1003,7 @@
 <display-name>beIN SPORTS XTRA</display-name>
 </channel>
 <channel id="channel335">
-<display-name>beIN SPORTS XTRA en español</display-name>
+<display-name>beIN SPORTS XTRA en espaÃ±ol</display-name>
 </channel>
 <channel id="channel336">
 <display-name>BeIN SPORTS XTRA En Espanol (720p)</display-name>
@@ -1018,7 +1018,7 @@
 <display-name>Bellator MMA</display-name>
 </channel>
 <channel id="channel340">
-<display-name>Bellavisión (1080p)</display-name>
+<display-name>BellavisiÃ³n (1080p)</display-name>
 </channel>
 <channel id="channel341">
 <display-name>Belmedia TV (1080p)</display-name>
@@ -1096,7 +1096,7 @@
 <display-name>Beyond History</display-name>
 </channel>
 <channel id="channel366">
-<display-name>BibleVision Français (720p) [Not 24/7]</display-name>
+<display-name>BibleVision FranÃ§ais (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel367">
 <display-name>Big Brother Canada</display-name>
@@ -1201,7 +1201,7 @@
 <display-name>Bolton Community Voice Channel (CVC) Public (Bolton CT) (480p)</display-name>
 </channel>
 <channel id="channel401">
-<display-name>bon appétit (1080p)</display-name>
+<display-name>bon appÃ©tit (1080p)</display-name>
 </channel>
 <channel id="channel402">
 <display-name>Bonao TV (720p)</display-name>
@@ -1246,7 +1246,7 @@
 <display-name>British Drama</display-name>
 </channel>
 <channel id="channel416">
-<display-name>BTV Panamá (720p) [Not 24/7]</display-name>
+<display-name>BTV PanamÃ¡ (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel417">
 <display-name>Buena Park Television (360p)</display-name>
@@ -1378,7 +1378,7 @@
 <display-name>Canal 5</display-name>
 </channel>
 <channel id="channel460">
-<display-name>Canal 5 El Líder (720p) [Not 24/7]</display-name>
+<display-name>Canal 5 El LÃ­der (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel461">
 <display-name>Canal 6 (480p)</display-name>
@@ -1399,19 +1399,19 @@
 <display-name>Canal 6 de Tamazula (480p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel467">
-<display-name>Canal 6 Nicaragüense (480p) [Not 24/7]</display-name>
+<display-name>Canal 6 NicaragÃ¼ense (480p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel468">
 <display-name>Canal 6 Panadish (720p)</display-name>
 </channel>
 <channel id="channel469">
-<display-name>Canal 6 Tecpán (720p) [Not 24/7]</display-name>
+<display-name>Canal 6 TecpÃ¡n (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel470">
 <display-name>Canal 7 SLP (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel471">
-<display-name>Canal 7 Talanga Visión (720p)</display-name>
+<display-name>Canal 7 Talanga VisiÃ³n (720p)</display-name>
 </channel>
 <channel id="channel472">
 <display-name>Canal 8 (720p) [Not 24/7]</display-name>
@@ -1429,16 +1429,16 @@
 <display-name>Canal 9 Barbe TV (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel477">
-<display-name>Canal 9 Ixchiguán (720p)</display-name>
+<display-name>Canal 9 IxchiguÃ¡n (720p)</display-name>
 </channel>
 <channel id="channel478">
-<display-name>Canal 9 Tolimán (720p)</display-name>
+<display-name>Canal 9 TolimÃ¡n (720p)</display-name>
 </channel>
 <channel id="channel479">
 <display-name>Canal 10 (1080p)</display-name>
 </channel>
 <channel id="channel480">
-<display-name>Canal 10 Cancún (720p) [Not 24/7]</display-name>
+<display-name>Canal 10 CancÃºn (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel481">
 <display-name>Canal 10 Chiapas (720p)</display-name>
@@ -1462,7 +1462,7 @@
 <display-name>Canal 12 (220p)</display-name>
 </channel>
 <channel id="channel488">
-<display-name>Canal 13 Bajío (720p) [Not 24/7]</display-name>
+<display-name>Canal 13 BajÃ­o (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel489">
 <display-name>Canal 13 Campeche (720p) [Not 24/7]</display-name>
@@ -1477,7 +1477,7 @@
 <display-name>Canal 13 Guadalajara (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel493">
-<display-name>Canal 13 Michoacán (720p) [Not 24/7]</display-name>
+<display-name>Canal 13 MichoacÃ¡n (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel494">
 <display-name>Canal 13 Oaxaca (720p) [Not 24/7]</display-name>
@@ -1495,7 +1495,7 @@
 <display-name>Canal 13 Tierra Caliente (768p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel499">
-<display-name>Canal 13 Yucatán (720p) [Not 24/7]</display-name>
+<display-name>Canal 13 YucatÃ¡n (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel500">
 <display-name>Canal 14 San Carlos (720p) [Not 24/7]</display-name>
@@ -1507,10 +1507,10 @@
 <display-name>Canal 15 ILCE Summa Sabres (720p)</display-name>
 </channel>
 <channel id="channel503">
-<display-name>Canal 15 Nicaragüense (1080p) [Not 24/7]</display-name>
+<display-name>Canal 15 NicaragÃ¼ense (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel504">
-<display-name>Canal 15 Usulután (720p) [Not 24/7]</display-name>
+<display-name>Canal 15 UsulutÃ¡n (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel505">
 <display-name>Canal 17 (720p)</display-name>
@@ -1576,13 +1576,13 @@
 <display-name>Canal 44 Chihuahua (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel526">
-<display-name>Canal 44 Ciudad Juárez (720p) [Geo-blocked]</display-name>
+<display-name>Canal 44 Ciudad JuÃ¡rez (720p) [Geo-blocked]</display-name>
 </channel>
 <channel id="channel527">
 <display-name>Canal 47 TV Puerto Escondido (480p)</display-name>
 </channel>
 <channel id="channel528">
-<display-name>Canal 50.1 Juárez (XEJ-TDT) (614p)</display-name>
+<display-name>Canal 50.1 JuÃ¡rez (XEJ-TDT) (614p)</display-name>
 </channel>
 <channel id="channel529">
 <display-name>Canal 51 (720p)</display-name>
@@ -1594,7 +1594,7 @@
 <display-name>Canal 65 (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel532">
-<display-name>Canal 98 Jesús TV (720p)</display-name>
+<display-name>Canal 98 JesÃºs TV (720p)</display-name>
 </channel>
 <channel id="channel533">
 <display-name>Canal 100 Chinique (480p)</display-name>
@@ -1723,7 +1723,7 @@
 <display-name>Caribe TV CR (720p)</display-name>
 </channel>
 <channel id="channel575">
-<display-name>Cariñosa TV (720p) [Not 24/7]</display-name>
+<display-name>CariÃ±osa TV (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel576">
 <display-name>Carivision (1080p)</display-name>
@@ -1738,7 +1738,7 @@
 <display-name>Cartoon TV (1080p)</display-name>
 </channel>
 <channel id="channel580">
-<display-name>Cáscara TV (1080p)</display-name>
+<display-name>CÃ¡scara TV (1080p)</display-name>
 </channel>
 <channel id="channel581">
 <display-name>Casos de la Dra. Polo</display-name>
@@ -1753,7 +1753,7 @@
 <display-name>Cats 24/7</display-name>
 </channel>
 <channel id="channel585">
-<display-name>Cats Family en Français</display-name>
+<display-name>Cats Family en FranÃ§ais</display-name>
 </channel>
 <channel id="channel586">
 <display-name>Caught in Providence (720p)</display-name>
@@ -1774,7 +1774,7 @@
 <display-name>CBC Manitoba (CBWT-DT) (720p) [Geo-blocked]</display-name>
 </channel>
 <channel id="channel592">
-<display-name>CBC Montréal (CBMT-DT) (720p) [Geo-blocked]</display-name>
+<display-name>CBC MontrÃ©al (CBMT-DT) (720p) [Geo-blocked]</display-name>
 </channel>
 <channel id="channel593">
 <display-name>CBC Murdoch Mysteries (1080p) [Geo-blocked]</display-name>
@@ -1825,7 +1825,7 @@
 <display-name>CBC Windsor (CBET-DT) (720p) [Geo-blocked]</display-name>
 </channel>
 <channel id="channel609">
-<display-name>CBN Español (1080p)</display-name>
+<display-name>CBN EspaÃ±ol (1080p)</display-name>
 </channel>
 <channel id="channel610">
 <display-name>CBN Family (1080p)</display-name>
@@ -2041,19 +2041,19 @@
 <display-name>Christmas 365</display-name>
 </channel>
 <channel id="channel681">
-<display-name>Cibaeña TV (720p)</display-name>
+<display-name>CibaeÃ±a TV (720p)</display-name>
 </channel>
 <channel id="channel682">
 <display-name>Cielo TV (1080p)</display-name>
 </channel>
 <channel id="channel683">
-<display-name>Cine ¡¡jaja!!</display-name>
+<display-name>Cine Â¡Â¡jaja!!</display-name>
 </channel>
 <channel id="channel684">
 <display-name>Cine adrenalina</display-name>
 </channel>
 <channel id="channel685">
-<display-name>Cine Clásico</display-name>
+<display-name>Cine ClÃ¡sico</display-name>
 </channel>
 <channel id="channel686">
 <display-name>Cine en Espanol (720p) [Geo-blocked]</display-name>
@@ -2071,7 +2071,7 @@
 <display-name>Cine Sony (720p)</display-name>
 </channel>
 <channel id="channel691">
-<display-name>Cine Sureño (1080p)</display-name>
+<display-name>Cine SureÃ±o (1080p)</display-name>
 </channel>
 <channel id="channel692">
 <display-name>Cine terror</display-name>
@@ -2101,7 +2101,7 @@
 <display-name>Circle [Geo-blocked]</display-name>
 </channel>
 <channel id="channel701">
-<display-name>Cítrico TV (240p)</display-name>
+<display-name>CÃ­trico TV (240p)</display-name>
 </channel>
 <channel id="channel702">
 <display-name>City of Oakland (KTOP) (480p)</display-name>
@@ -2125,10 +2125,10 @@
 <display-name>CityTV San Diego (360p)</display-name>
 </channel>
 <channel id="channel709">
-<display-name>Claro Televisión Dominicana (360p)</display-name>
+<display-name>Claro TelevisiÃ³n Dominicana (360p)</display-name>
 </channel>
 <channel id="channel710">
-<display-name>Claro Visión TV (720p)</display-name>
+<display-name>Claro VisiÃ³n TV (720p)</display-name>
 </channel>
 <channel id="channel711">
 <display-name>Classic Cinema (240p) [Not 24/7]</display-name>
@@ -2188,7 +2188,7 @@
 <display-name>CNN HEADLINES</display-name>
 </channel>
 <channel id="channel730">
-<display-name>CNR Televisión (1080p)</display-name>
+<display-name>CNR TelevisiÃ³n (1080p)</display-name>
 </channel>
 <channel id="channel731">
 <display-name>CNV/Montreal</display-name>
@@ -2209,7 +2209,7 @@
 <display-name>Cold Case Files (1080p)</display-name>
 </channel>
 <channel id="channel737">
-<display-name>Cold Case Files by A&E</display-name>
+<display-name>Cold Case Files by AandE</display-name>
 </channel>
 <channel id="channel738">
 <display-name>ColimdoT TV (720p)</display-name>
@@ -2221,7 +2221,7 @@
 <display-name>Collier Television CTV (Naples FL) (720p)</display-name>
 </channel>
 <channel id="channel741">
-<display-name>Color Visión (720p) [Not 24/7]</display-name>
+<display-name>Color VisiÃ³n (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel742">
 <display-name>Colosal TV (720p) [Not 24/7]</display-name>
@@ -2245,7 +2245,7 @@
 <display-name>Comedy Central East (720p)</display-name>
 </channel>
 <channel id="channel749">
-<display-name>Comedy Central en español</display-name>
+<display-name>Comedy Central en espaÃ±ol</display-name>
 </channel>
 <channel id="channel750">
 <display-name>Comedy Central Pluto TV</display-name>
@@ -2266,7 +2266,7 @@
 <display-name>Complex (720p)</display-name>
 </channel>
 <channel id="channel756">
-<display-name>Comunicaciones Jiménez (720p) [Not 24/7]</display-name>
+<display-name>Comunicaciones JimÃ©nez (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel757">
 <display-name>Concord TV (Concord CA) (720p)</display-name>
@@ -2308,10 +2308,10 @@
 <display-name>Coral Gables Television (Coral Gables FL) (720p)</display-name>
 </channel>
 <channel id="channel770">
-<display-name>Corazón turco</display-name>
+<display-name>CorazÃ³n turco</display-name>
 </channel>
 <channel id="channel771">
-<display-name>Corporation de Télévision Brandon (CTB TV)</display-name>
+<display-name>Corporation de TÃ©lÃ©vision Brandon (CTB TV)</display-name>
 </channel>
 <channel id="channel772">
 <display-name>CorTV (800p)</display-name>
@@ -2398,7 +2398,7 @@
 <display-name>Crime 360 (720p)</display-name>
 </channel>
 <channel id="channel800">
-<display-name>Crime 360 by A&E</display-name>
+<display-name>Crime 360 by AandE</display-name>
 </channel>
 <channel id="channel801">
 <display-name>Crime Files</display-name>
@@ -2416,7 +2416,7 @@
 <display-name>CrimeFlix (1080p)</display-name>
 </channel>
 <channel id="channel806">
-<display-name>Crímenes imperfectos</display-name>
+<display-name>CrÃ­menes imperfectos</display-name>
 </channel>
 <channel id="channel807">
 <display-name>CrimeTime</display-name>
@@ -2428,7 +2428,7 @@
 <display-name>Cristo TV (480p)</display-name>
 </channel>
 <channel id="channel810">
-<display-name>Cristo Visión Canal 31 (720p)</display-name>
+<display-name>Cristo VisiÃ³n Canal 31 (720p)</display-name>
 </channel>
 <channel id="channel811">
 <display-name>CromTV (480p)</display-name>
@@ -2455,7 +2455,7 @@
 <display-name>CSI 2</display-name>
 </channel>
 <channel id="channel819">
-<display-name>CSI en Español</display-name>
+<display-name>CSI en EspaÃ±ol</display-name>
 </channel>
 <channel id="channel820">
 <display-name>CSI: Miami</display-name>
@@ -2464,7 +2464,7 @@
 <display-name>CSI: Miami</display-name>
 </channel>
 <channel id="channel822">
-<display-name>CSI: Miami en español</display-name>
+<display-name>CSI: Miami en espaÃ±ol</display-name>
 </channel>
 <channel id="channel823">
 <display-name>CSI: NY</display-name>
@@ -2473,7 +2473,7 @@
 <display-name>CSI: NY</display-name>
 </channel>
 <channel id="channel825">
-<display-name>CSI: NY en español</display-name>
+<display-name>CSI: NY en espaÃ±ol</display-name>
 </channel>
 <channel id="channel826">
 <display-name>CT-N Court Feed (360p) [Not 24/7]</display-name>
@@ -2563,7 +2563,7 @@
 <display-name>DC Council Channel (1080p)</display-name>
 </channel>
 <channel id="channel855">
-<display-name>DC Kids Français</display-name>
+<display-name>DC Kids FranÃ§ais</display-name>
 </channel>
 <channel id="channel856">
 <display-name>DC.gov Council Hearing Room 120 (Washington DC) (1080p)</display-name>
@@ -2626,7 +2626,7 @@
 <display-name>Desi Play TV</display-name>
 </channel>
 <channel id="channel876">
-<display-name>Despierta América</display-name>
+<display-name>Despierta AmÃ©rica</display-name>
 </channel>
 <channel id="channel877">
 <display-name>Despierta TV (1080p) [Not 24/7]</display-name>
@@ -2638,7 +2638,7 @@
 <display-name>Didgah TV (280p)</display-name>
 </channel>
 <channel id="channel880">
-<display-name>DiezTV Encarnación (1080p)</display-name>
+<display-name>DiezTV EncarnaciÃ³n (1080p)</display-name>
 </channel>
 <channel id="channel881">
 <display-name>Digital 15 (480p)</display-name>
@@ -2647,7 +2647,7 @@
 <display-name>Digital809 TV (720p)</display-name>
 </channel>
 <channel id="channel883">
-<display-name>Digital Visión 63 (720p)</display-name>
+<display-name>Digital VisiÃ³n 63 (720p)</display-name>
 </channel>
 <channel id="channel884">
 <display-name>Dimelo TV (1080p)</display-name>
@@ -2713,7 +2713,7 @@
 <display-name>Dora TV</display-name>
 </channel>
 <channel id="channel905">
-<display-name>Dora TV en Français</display-name>
+<display-name>Dora TV en FranÃ§ais</display-name>
 </channel>
 <channel id="channel906">
 <display-name>Dove Channel</display-name>
@@ -2728,7 +2728,7 @@
 <display-name>Dreamforce Btl</display-name>
 </channel>
 <channel id="channel910">
-<display-name>DreamWorksTV Français (720p) [Not 24/7]</display-name>
+<display-name>DreamWorksTV FranÃ§ais (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel911">
 <display-name>DreikoTv (720p) [Not 24/7]</display-name>
@@ -2785,7 +2785,7 @@
 <display-name>Eclipse TV (720p)</display-name>
 </channel>
 <channel id="channel929">
-<display-name>Ecovisión (720p)</display-name>
+<display-name>EcovisiÃ³n (720p)</display-name>
 </channel>
 <channel id="channel930">
 <display-name>EDN TV (1080p) [Not 24/7]</display-name>
@@ -2797,7 +2797,7 @@
 <display-name>EET TV (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel933">
-<display-name>Efeso Televisión (1080p) [Not 24/7]</display-name>
+<display-name>Efeso TelevisiÃ³n (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel934">
 <display-name>El 15 TV (720p)</display-name>
@@ -2863,10 +2863,10 @@
 <display-name>Enlace Juvenil (720p)</display-name>
 </channel>
 <channel id="channel955">
-<display-name>Enntivisión (720p)</display-name>
+<display-name>EnntivisiÃ³n (720p)</display-name>
 </channel>
 <channel id="channel956">
-<display-name>Entelevisión (720p)</display-name>
+<display-name>EntelevisiÃ³n (720p)</display-name>
 </channel>
 <channel id="channel957">
 <display-name>Entertainment Tonight (720p)</display-name>
@@ -2893,7 +2893,7 @@
 <display-name>Escape TV (1080p)</display-name>
 </channel>
 <channel id="channel965">
-<display-name>Espíritu Santo Y Fuego TV (480p)</display-name>
+<display-name>EspÃ­ritu Santo Y Fuego TV (480p)</display-name>
 </channel>
 <channel id="channel966">
 <display-name>Esquipulas TV (1080p)</display-name>
@@ -2953,13 +2953,13 @@
 <display-name>EWTN United States (720p)</display-name>
 </channel>
 <channel id="channel985">
-<display-name>Excélsior TV (720p) [Not 24/7]</display-name>
+<display-name>ExcÃ©lsior TV (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel986">
 <display-name>Expresa TV (720p)</display-name>
 </channel>
 <channel id="channel987">
-<display-name>Expresión TV (1080p)</display-name>
+<display-name>ExpresiÃ³n TV (1080p)</display-name>
 </channel>
 <channel id="channel988">
 <display-name>Extrema TV (720p)</display-name>
@@ -2974,7 +2974,7 @@
 <display-name>EYE95 America (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel992">
-<display-name>Fabulosa Estéreo 100.5 FM (720p)</display-name>
+<display-name>Fabulosa EstÃ©reo 100.5 FM (720p)</display-name>
 </channel>
 <channel id="channel993">
 <display-name>Face Culture TV (1080p)</display-name>
@@ -3022,7 +3022,7 @@
 <display-name>Faro Puntarenas TV (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1008">
-<display-name>Farovisión (720p)</display-name>
+<display-name>FarovisiÃ³n (720p)</display-name>
 </channel>
 <channel id="channel1009">
 <display-name>Fashion Finds</display-name>
@@ -3079,7 +3079,7 @@
 <display-name>Filmex (Xumo) (1080p) [Geo-blocked]</display-name>
 </channel>
 <channel id="channel1027">
-<display-name>Filmex Clásico (1080p) [Geo-blocked]</display-name>
+<display-name>Filmex ClÃ¡sico (1080p) [Geo-blocked]</display-name>
 </channel>
 <channel id="channel1028">
 <display-name>Filmrise Black TV (720p)</display-name>
@@ -3337,7 +3337,7 @@
 <display-name>FTF (720p)</display-name>
 </channel>
 <channel id="channel1113">
-<display-name>FTV Televisión Familiar (480p) [Not 24/7]</display-name>
+<display-name>FTV TelevisiÃ³n Familiar (480p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1114">
 <display-name>Fubo Sports Network (1080p) [Geo-blocked]</display-name>
@@ -3358,7 +3358,7 @@
 <display-name>Funny or Die (720p)</display-name>
 </channel>
 <channel id="channel1120">
-<display-name>Fútbol</display-name>
+<display-name>FÃºtbol</display-name>
 </channel>
 <channel id="channel1121">
 <display-name>FUTV Costa Rica (720p)</display-name>
@@ -3373,7 +3373,7 @@
 <display-name>Gainesville Community 12TV (Gainesville FL) (720p)</display-name>
 </channel>
 <channel id="channel1125">
-<display-name>Galavisión East</display-name>
+<display-name>GalavisiÃ³n East</display-name>
 </channel>
 <channel id="channel1126">
 <display-name>Galaxia TV (360p)</display-name>
@@ -3436,7 +3436,7 @@
 <display-name>Genesis TV (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1146">
-<display-name>Génesis TV (768p) [Not 24/7]</display-name>
+<display-name>GÃ©nesis TV (768p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1147">
 <display-name>GET TV (720p)</display-name>
@@ -3700,10 +3700,10 @@
 <display-name>Hallmark Channel East</display-name>
 </channel>
 <channel id="channel1234">
-<display-name>Hallmark en español</display-name>
+<display-name>Hallmark en espaÃ±ol</display-name>
 </channel>
 <channel id="channel1235">
-<display-name>Hallmark Movies & More</display-name>
+<display-name>Hallmark Movies and More</display-name>
 </channel>
 <channel id="channel1236">
 <display-name>Hamdard TV (1080p)</display-name>
@@ -3742,7 +3742,7 @@
 <display-name>Haz Clic!</display-name>
 </channel>
 <channel id="channel1248">
-<display-name>HBTV TicaVisión (1080p)</display-name>
+<display-name>HBTV TicaVisiÃ³n (1080p)</display-name>
 </channel>
 <channel id="channel1249">
 <display-name>Heart Radio Aruba (720p)</display-name>
@@ -3757,7 +3757,7 @@
 <display-name>Heartland (720p)</display-name>
 </channel>
 <channel id="channel1253">
-<display-name>Hell's Kitchen en español</display-name>
+<display-name>Hell's Kitchen en espaÃ±ol</display-name>
 </channel>
 <channel id="channel1254">
 <display-name>Hermanas Mirabal TV (720p) [Not 24/7]</display-name>
@@ -3775,7 +3775,7 @@
 <display-name>Hillsborough County TV HTV (Hillsborough County FL) (360p)</display-name>
 </channel>
 <channel id="channel1259">
-<display-name>Hipódromo de las Américas (480p) [Geo-blocked]</display-name>
+<display-name>HipÃ³dromo de las AmÃ©ricas (480p) [Geo-blocked]</display-name>
 </channel>
 <channel id="channel1260">
 <display-name>Hipstr (1080p)</display-name>
@@ -3907,43 +3907,43 @@
 <display-name>ICI Montreal (720p)</display-name>
 </channel>
 <channel id="channel1303">
-<display-name>Ici Radio-Canada Télé (1080p) [Geo-blocked]</display-name>
+<display-name>Ici Radio-Canada TÃ©lÃ© (1080p) [Geo-blocked]</display-name>
 </channel>
 <channel id="channel1304">
-<display-name>Ici Radio-Canada Télé Alberta (CBXFT-DT) [Geo-blocked]</display-name>
+<display-name>Ici Radio-Canada TÃ©lÃ© Alberta (CBXFT-DT) [Geo-blocked]</display-name>
 </channel>
 <channel id="channel1305">
-<display-name>Ici Radio-Canada Télé Colombie-Britannique/Yukon (CBUFT-DT) [Geo-blocked]</display-name>
+<display-name>Ici Radio-Canada TÃ©lÃ© Colombie-Britannique/Yukon (CBUFT-DT) [Geo-blocked]</display-name>
 </channel>
 <channel id="channel1306">
-<display-name>Ici Radio-Canada Télé Est du Québec (CJBR-DT) [Geo-blocked]</display-name>
+<display-name>Ici Radio-Canada TÃ©lÃ© Est du QuÃ©bec (CJBR-DT) [Geo-blocked]</display-name>
 </channel>
 <channel id="channel1307">
-<display-name>Ici Radio-Canada Télé Estrie (CKSH-DT) [Geo-blocked]</display-name>
+<display-name>Ici Radio-Canada TÃ©lÃ© Estrie (CKSH-DT) [Geo-blocked]</display-name>
 </channel>
 <channel id="channel1308">
-<display-name>Ici Radio-Canada Télé Manitoba (CBWFT-DT) [Geo-blocked]</display-name>
+<display-name>Ici Radio-Canada TÃ©lÃ© Manitoba (CBWFT-DT) [Geo-blocked]</display-name>
 </channel>
 <channel id="channel1309">
-<display-name>Ici Radio-Canada Télé Mauricie/Centre-du-Québec (CKTM-DT) [Geo-blocked]</display-name>
+<display-name>Ici Radio-Canada TÃ©lÃ© Mauricie/Centre-du-QuÃ©bec (CKTM-DT) [Geo-blocked]</display-name>
 </channel>
 <channel id="channel1310">
-<display-name>Ici Radio-Canada Télé Ontario (CBLFT-DT) [Geo-blocked]</display-name>
+<display-name>Ici Radio-Canada TÃ©lÃ© Ontario (CBLFT-DT) [Geo-blocked]</display-name>
 </channel>
 <channel id="channel1311">
-<display-name>Ici Radio-Canada Télé Ottawa/Gatineau (CBOFT-DT) [Geo-blocked]</display-name>
+<display-name>Ici Radio-Canada TÃ©lÃ© Ottawa/Gatineau (CBOFT-DT) [Geo-blocked]</display-name>
 </channel>
 <channel id="channel1312">
-<display-name>Ici Radio-Canada Télé Québec (CBVT-DT) [Geo-blocked]</display-name>
+<display-name>Ici Radio-Canada TÃ©lÃ© QuÃ©bec (CBVT-DT) [Geo-blocked]</display-name>
 </channel>
 <channel id="channel1313">
-<display-name>Ici Radio-Canada Télé Saguenay/Lac-St-Jean (CKTV-DT) [Geo-blocked]</display-name>
+<display-name>Ici Radio-Canada TÃ©lÃ© Saguenay/Lac-St-Jean (CKTV-DT) [Geo-blocked]</display-name>
 </channel>
 <channel id="channel1314">
-<display-name>Ici Radio-Canada Télé Saskatchewan (CBKFT-DT) [Geo-blocked]</display-name>
+<display-name>Ici Radio-Canada TÃ©lÃ© Saskatchewan (CBKFT-DT) [Geo-blocked]</display-name>
 </channel>
 <channel id="channel1315">
-<display-name>Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]</display-name>
+<display-name>Ici Radio-Canada TÃ©lÃ© Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]</display-name>
 </channel>
 <channel id="channel1316">
 <display-name>ICI RDI (720p)</display-name>
@@ -4006,7 +4006,7 @@
 <display-name>Income Property</display-name>
 </channel>
 <channel id="channel1336">
-<display-name>IncrediTales Français</display-name>
+<display-name>IncrediTales FranÃ§ais</display-name>
 </channel>
 <channel id="channel1337">
 <display-name>Ind TV USA (720p)</display-name>
@@ -4048,7 +4048,7 @@
 <display-name>Inmaculada TV (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1350">
-<display-name>Intermediate League Curaçao [Geo-blocked]</display-name>
+<display-name>Intermediate League CuraÃ§ao [Geo-blocked]</display-name>
 </channel>
 <channel id="channel1351">
 <display-name>International Vietnamese Television IVTV Channel 57.16 (720p)</display-name>
@@ -4123,7 +4123,7 @@
 <display-name>Jamaica Online TV (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1375">
-<display-name>Jazmín TV (360p)</display-name>
+<display-name>JazmÃ­n TV (360p)</display-name>
 </channel>
 <channel id="channel1376">
 <display-name>JBN (1080p)</display-name>
@@ -4138,10 +4138,10 @@
 <display-name>Jeffrey A Swanson Photography (720p)</display-name>
 </channel>
 <channel id="channel1380">
-<display-name>Jehová Nissi (720p)</display-name>
+<display-name>JehovÃ¡ Nissi (720p)</display-name>
 </channel>
 <channel id="channel1381">
-<display-name>Jehová TV (720p)</display-name>
+<display-name>JehovÃ¡ TV (720p)</display-name>
 </channel>
 <channel id="channel1382">
 <display-name>Jersey Shore</display-name>
@@ -4174,13 +4174,13 @@
 <display-name>Johnny Carson TV (1080p)</display-name>
 </channel>
 <channel id="channel1392">
-<display-name>Josué TV (1080p)</display-name>
+<display-name>JosuÃ© TV (1080p)</display-name>
 </channel>
 <channel id="channel1393">
 <display-name>Journy (720p)</display-name>
 </channel>
 <channel id="channel1394">
-<display-name>Júbilo TV (720p)</display-name>
+<display-name>JÃºbilo TV (720p)</display-name>
 </channel>
 <channel id="channel1395">
 <display-name>Judge Nosey</display-name>
@@ -4315,7 +4315,7 @@
 <display-name>KMOV-DT1 [Geo-blocked]</display-name>
 </channel>
 <channel id="channel1439">
-<display-name>Knal 4 Quiché (720p) [Not 24/7]</display-name>
+<display-name>Knal 4 QuichÃ© (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1440">
 <display-name>KNLJ-DT1 (720p)</display-name>
@@ -4450,7 +4450,7 @@
 <display-name>La Caleta TV (360p)</display-name>
 </channel>
 <channel id="channel1484">
-<display-name>La Chaîne 32 (720p)</display-name>
+<display-name>La ChaÃ®ne 32 (720p)</display-name>
 </channel>
 <channel id="channel1485">
 <display-name>LA CityView 35 (1080p)</display-name>
@@ -4465,13 +4465,13 @@
 <display-name>La Imagen de Tierra Caliente (768p)</display-name>
 </channel>
 <channel id="channel1489">
-<display-name>La Luperrona Ciudad Guzmán (240p)</display-name>
+<display-name>La Luperrona Ciudad GuzmÃ¡n (240p)</display-name>
 </channel>
 <channel id="channel1490">
 <display-name>La Luperrona Colima (256p)</display-name>
 </channel>
 <channel id="channel1491">
-<display-name>La Luperrona Ocotlán (300p)</display-name>
+<display-name>La Luperrona OcotlÃ¡n (300p)</display-name>
 </channel>
 <channel id="channel1492">
 <display-name>La Mega Mundial</display-name>
@@ -4480,13 +4480,13 @@
 <display-name>LA MIA TV (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1494">
-<display-name>La Petite Sorcière Tanny</display-name>
+<display-name>La Petite SorciÃ¨re Tanny</display-name>
 </channel>
 <channel id="channel1495">
 <display-name>La Que Buena Atlanta</display-name>
 </channel>
 <channel id="channel1496">
-<display-name>La Ranchera de Cuauhtémoc 89.7 FM (720p)</display-name>
+<display-name>La Ranchera de CuauhtÃ©moc 89.7 FM (720p)</display-name>
 </channel>
 <channel id="channel1497">
 <display-name>La Rock 22 (1080p)</display-name>
@@ -4501,10 +4501,10 @@
 <display-name>La Top 107.7 (720p)</display-name>
 </channel>
 <channel id="channel1501">
-<display-name>La Voz de María (720p)</display-name>
+<display-name>La Voz de MarÃ­a (720p)</display-name>
 </channel>
 <channel id="channel1502">
-<display-name>La Voz del Trópico (480p) [Not 24/7]</display-name>
+<display-name>La Voz del TrÃ³pico (480p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1503">
 <display-name>La Voz Grupera TV (720p)</display-name>
@@ -4546,13 +4546,13 @@
 <display-name>LATV [Geo-blocked]</display-name>
 </channel>
 <channel id="channel1516">
-<display-name>Law & Crime (720p)</display-name>
+<display-name>Law and Crime (720p)</display-name>
 </channel>
 <channel id="channel1517">
 <display-name>Lawndale City TV (720p)</display-name>
 </channel>
 <channel id="channel1518">
-<display-name>LaXitosa Panamá (360p) [Not 24/7]</display-name>
+<display-name>LaXitosa PanamÃ¡ (360p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1519">
 <display-name>LCN [Geo-blocked]</display-name>
@@ -4600,7 +4600,7 @@
 <display-name>LEGO Kids TV</display-name>
 </channel>
 <channel id="channel1534">
-<display-name>Leña TV</display-name>
+<display-name>LeÃ±a TV</display-name>
 </channel>
 <channel id="channel1535">
 <display-name>Lenca Television Canal 40 (720p) [Not 24/7]</display-name>
@@ -4615,7 +4615,7 @@
 <display-name>Leominster TV Public (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1539">
-<display-name>Les Nouveaux Détectives</display-name>
+<display-name>Les Nouveaux DÃ©tectives</display-name>
 </channel>
 <channel id="channel1540">
 <display-name>Let's Make a deal</display-name>
@@ -4627,7 +4627,7 @@
 <display-name>LHCAZTV</display-name>
 </channel>
 <channel id="channel1543">
-<display-name>Life & Legend of Wyatt Earp</display-name>
+<display-name>Life and Legend of Wyatt Earp</display-name>
 </channel>
 <channel id="channel1544">
 <display-name>Life Minute (720p)</display-name>
@@ -4672,7 +4672,7 @@
 <display-name>Lighting Lives Blessing Nations TV South Asia (LLBN) (480p)</display-name>
 </channel>
 <channel id="channel1558">
-<display-name>Limón TV (1080p) [Not 24/7]</display-name>
+<display-name>LimÃ³n TV (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1559">
 <display-name>Linus Tech Tips TV</display-name>
@@ -4681,7 +4681,7 @@
 <display-name>Lite FM (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1561">
-<display-name>Litoral Atlántico HD (720p)</display-name>
+<display-name>Litoral AtlÃ¡ntico HD (720p)</display-name>
 </channel>
 <channel id="channel1562">
 <display-name>Little Angel's Playroom</display-name>
@@ -4783,7 +4783,7 @@
 <display-name>Long Beach Television (720p)</display-name>
 </channel>
 <channel id="channel1595">
-<display-name>Los Altos Televisión (720p)</display-name>
+<display-name>Los Altos TelevisiÃ³n (720p)</display-name>
 </channel>
 <channel id="channel1596">
 <display-name>Los Angeles Local Television Channel 36 (1080p)</display-name>
@@ -4795,10 +4795,10 @@
 <display-name>Loupe 4K</display-name>
 </channel>
 <channel id="channel1599">
-<display-name>Love & Hip Hop</display-name>
+<display-name>Love and Hip Hop</display-name>
 </channel>
 <channel id="channel1600">
-<display-name>Love & Hip Hop 2</display-name>
+<display-name>Love and Hip Hop 2</display-name>
 </channel>
 <channel id="channel1601">
 <display-name>Love Drama</display-name>
@@ -4852,13 +4852,13 @@
 <display-name>Madras FM TV (1080p)</display-name>
 </channel>
 <channel id="channel1618">
-<display-name>Maimón Digital TV (720p)</display-name>
+<display-name>MaimÃ³n Digital TV (720p)</display-name>
 </channel>
 <channel id="channel1619">
-<display-name>Maimón TV Canal 3 (720p)</display-name>
+<display-name>MaimÃ³n TV Canal 3 (720p)</display-name>
 </channel>
 <channel id="channel1620">
-<display-name>Majestad Televisión (480p) [Not 24/7]</display-name>
+<display-name>Majestad TelevisiÃ³n (480p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1621">
 <display-name>Makao TV (360p)</display-name>
@@ -4870,7 +4870,7 @@
 <display-name>Manatee Schools Television MSTV (Manatee County FL) (1080p)</display-name>
 </channel>
 <channel id="channel1624">
-<display-name>María Visión Mexico (360p) [Not 24/7]</display-name>
+<display-name>MarÃ­a VisiÃ³n Mexico (360p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1625">
 <display-name>Marin TV Community Channel (San Rafael CA) (1080p)</display-name>
@@ -4891,19 +4891,19 @@
 <display-name>Martin County MCTV (Martin County FL) (720p)</display-name>
 </channel>
 <channel id="channel1631">
-<display-name>Martinique la 1ère (720p) [Not 24/7]</display-name>
+<display-name>Martinique la 1Ã¨re (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1632">
 <display-name>Mas23 TV (1080p)</display-name>
 </channel>
 <channel id="channel1633">
-<display-name>Más Ciclismo TV (720p)</display-name>
+<display-name>MÃ¡s Ciclismo TV (720p)</display-name>
 </channel>
 <channel id="channel1634">
-<display-name>Más Noticias Televisión (720p)</display-name>
+<display-name>MÃ¡s Noticias TelevisiÃ³n (720p)</display-name>
 </channel>
 <channel id="channel1635">
-<display-name>MÁS TV (720p)</display-name>
+<display-name>MÃS TV (720p)</display-name>
 </channel>
 <channel id="channel1636">
 <display-name>Masacre TV</display-name>
@@ -4933,19 +4933,19 @@
 <display-name>MAVTV Motor Sports UK</display-name>
 </channel>
 <channel id="channel1645">
-<display-name>Max & Ruby</display-name>
+<display-name>Max and Ruby</display-name>
 </channel>
 <channel id="channel1646">
 <display-name>Maximum Effort Channel (1080p) [Geo-blocked]</display-name>
 </channel>
 <channel id="channel1647">
-<display-name>Maxivisión TV (720p)</display-name>
+<display-name>MaxivisiÃ³n TV (720p)</display-name>
 </channel>
 <channel id="channel1648">
 <display-name>Maya TV (480p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1649">
-<display-name>Mayavisión (720p)</display-name>
+<display-name>MayavisiÃ³n (720p)</display-name>
 </channel>
 <channel id="channel1650">
 <display-name>MBC 1</display-name>
@@ -4966,7 +4966,7 @@
 <display-name>MCN6 Music Channel (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1656">
-<display-name>MCN Televisión (768p)</display-name>
+<display-name>MCN TelevisiÃ³n (768p)</display-name>
 </channel>
 <channel id="channel1657">
 <display-name>MeatEater</display-name>
@@ -4990,13 +4990,13 @@
 <display-name>Meganoticias MX (1080p)</display-name>
 </channel>
 <channel id="channel1664">
-<display-name>Megavisión Canal 19 (720p)</display-name>
+<display-name>MegavisiÃ³n Canal 19 (720p)</display-name>
 </channel>
 <channel id="channel1665">
-<display-name>Megavisión Canal 21 (720p)</display-name>
+<display-name>MegavisiÃ³n Canal 21 (720p)</display-name>
 </channel>
 <channel id="channel1666">
-<display-name>Megavisión TV (480p)</display-name>
+<display-name>MegavisiÃ³n TV (480p)</display-name>
 </channel>
 <channel id="channel1667">
 <display-name>MERCURY+ (1080p)</display-name>
@@ -5011,7 +5011,7 @@
 <display-name>Metro TV (720p)</display-name>
 </channel>
 <channel id="channel1671">
-<display-name>Metrópoli Televisión (1080p) [Not 24/7]</display-name>
+<display-name>MetrÃ³poli TelevisiÃ³n (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1672">
 <display-name>Mexiquense TV (720p)</display-name>
@@ -5029,7 +5029,7 @@
 <display-name>Mi Canal (576p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1677">
-<display-name>Mi obsesión favorita</display-name>
+<display-name>Mi obsesiÃ³n favorita</display-name>
 </channel>
 <channel id="channel1678">
 <display-name>Miami Beach Tv (MBTV) (Miami Beach FL) (720p)</display-name>
@@ -5179,7 +5179,7 @@
 <display-name>MorroTV (414p)</display-name>
 </channel>
 <channel id="channel1727">
-<display-name>Motorbikes & Engines</display-name>
+<display-name>Motorbikes and Engines</display-name>
 </channel>
 <channel id="channel1728">
 <display-name>MotorTrend FAST TV</display-name>
@@ -5245,7 +5245,7 @@
 <display-name>MTV Dating</display-name>
 </channel>
 <channel id="channel1749">
-<display-name>MTV en español</display-name>
+<display-name>MTV en espaÃ±ol</display-name>
 </channel>
 <channel id="channel1750">
 <display-name>MTV Flow Latino</display-name>
@@ -5272,16 +5272,16 @@
 <display-name>MTV Spankin' New</display-name>
 </channel>
 <channel id="channel1758">
-<display-name>MTV Spankin’ New</display-name>
+<display-name>MTV Spankinâ€™ New</display-name>
 </channel>
 <channel id="channel1759">
 <display-name>mtvU (480p)</display-name>
 </channel>
 <channel id="channel1760">
-<display-name>Multimedios Bajío (720p) [Not 24/7]</display-name>
+<display-name>Multimedios BajÃ­o (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1761">
-<display-name>Multimedios Ciudad Juárez (720p) [Not 24/7]</display-name>
+<display-name>Multimedios Ciudad JuÃ¡rez (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1762">
 <display-name>Multimedios Guadalajara (720p) [Not 24/7]</display-name>
@@ -5299,10 +5299,10 @@
 <display-name>Multimedios Saltillo (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1767">
-<display-name>Multivisión Canal 3 (720p) [Not 24/7]</display-name>
+<display-name>MultivisiÃ³n Canal 3 (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1768">
-<display-name>Multivisión Sports (720p) [Not 24/7]</display-name>
+<display-name>MultivisiÃ³n Sports (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1769">
 <display-name>Multizonas TV (720p)</display-name>
@@ -5317,7 +5317,7 @@
 <display-name>Mundo paranormal</display-name>
 </channel>
 <channel id="channel1773">
-<display-name>Mundo Pequeño</display-name>
+<display-name>Mundo PequeÃ±o</display-name>
 </channel>
 <channel id="channel1774">
 <display-name>Mundo viajero</display-name>
@@ -5527,10 +5527,10 @@
 <display-name>NCIS</display-name>
 </channel>
 <channel id="channel1843">
-<display-name>NCM Educational & Kids Channel</display-name>
+<display-name>NCM Educational and Kids Channel</display-name>
 </channel>
 <channel id="channel1844">
-<display-name>NCM Government & Politics</display-name>
+<display-name>NCM Government and Politics</display-name>
 </channel>
 <channel id="channel1845">
 <display-name>NCM Main Channel</display-name>
@@ -5626,7 +5626,7 @@
 <display-name>Nickelodeon East</display-name>
 </channel>
 <channel id="channel1876">
-<display-name>Nickelodeon en español</display-name>
+<display-name>Nickelodeon en espaÃ±ol</display-name>
 </channel>
 <channel id="channel1877">
 <display-name>Nickelodeon Panregional (480p)</display-name>
@@ -5659,10 +5659,10 @@
 <display-name>Nitro TV (1080p)</display-name>
 </channel>
 <channel id="channel1887">
-<display-name>NMás (1080p)</display-name>
+<display-name>NMÃ¡s (1080p)</display-name>
 </channel>
 <channel id="channel1888">
-<display-name>NMás Media (1080p)</display-name>
+<display-name>NMÃ¡s Media (1080p)</display-name>
 </channel>
 <channel id="channel1889">
 <display-name>NNVeracruz (640p)</display-name>
@@ -5677,13 +5677,13 @@
 <display-name>Nonstop Drama</display-name>
 </channel>
 <channel id="channel1893">
-<display-name>Noovo Cinéma (1080p)</display-name>
+<display-name>Noovo CinÃ©ma (1080p)</display-name>
 </channel>
 <channel id="channel1894">
-<display-name>Noovo Comédies (1080p)</display-name>
+<display-name>Noovo ComÃ©dies (1080p)</display-name>
 </channel>
 <channel id="channel1895">
-<display-name>Noovo Téléréalités (1080p)</display-name>
+<display-name>Noovo TÃ©lÃ©rÃ©alitÃ©s (1080p)</display-name>
 </channel>
 <channel id="channel1896">
 <display-name>Norte Informativo TV (240p)</display-name>
@@ -5695,7 +5695,7 @@
 <display-name>like Gecko) Chrome/77.0.3865.90 Safari/537.36"</display-name>
 </channel>
 <channel id="channel1899">
-<display-name>Nos Païs (720p) [Not 24/7]</display-name>
+<display-name>Nos PaÃ¯s (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1900">
 <display-name>Nosey</display-name>
@@ -5710,7 +5710,7 @@
 <display-name>Nosey Divorce Court (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1904">
-<display-name>Nosey escándalos</display-name>
+<display-name>Nosey escÃ¡ndalos</display-name>
 </channel>
 <channel id="channel1905">
 <display-name>Nosey Jerry Springer</display-name>
@@ -5764,13 +5764,13 @@
 <display-name>NRB TV (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1922">
-<display-name>NRT México Internacional (720p)</display-name>
+<display-name>NRT MÃ©xico Internacional (720p)</display-name>
 </channel>
 <channel id="channel1923">
-<display-name>NRT México Región Centro (720p)</display-name>
+<display-name>NRT MÃ©xico RegiÃ³n Centro (720p)</display-name>
 </channel>
 <channel id="channel1924">
-<display-name>NRT México Región Sureste (720p)</display-name>
+<display-name>NRT MÃ©xico RegiÃ³n Sureste (720p)</display-name>
 </channel>
 <channel id="channel1925">
 <display-name>NTD TV (New Tang Dynasty Television)</display-name>
@@ -5791,7 +5791,7 @@
 <display-name>Nueva Vida TV (720p)</display-name>
 </channel>
 <channel id="channel1931">
-<display-name>Nueve TV San Luís Potosí (720p)</display-name>
+<display-name>Nueve TV San LuÃ­s PotosÃ­ (720p)</display-name>
 </channel>
 <channel id="channel1932">
 <display-name>Nuevo Mundo TV (720p)</display-name>
@@ -5848,7 +5848,7 @@
 <display-name>Omstars (1080p)</display-name>
 </channel>
 <channel id="channel1950">
-<display-name>Once México (1080p)</display-name>
+<display-name>Once MÃ©xico (1080p)</display-name>
 </channel>
 <channel id="channel1951">
 <display-name>Onda TV (720p)</display-name>
@@ -5866,7 +5866,7 @@
 <display-name>ONTV4U (1080p)</display-name>
 </channel>
 <channel id="channel1956">
-<display-name>Opción TV (540p)</display-name>
+<display-name>OpciÃ³n TV (540p)</display-name>
 </channel>
 <channel id="channel1957">
 <display-name>Opportunities in Urban Renaissance Television (OURTV) (720p)</display-name>
@@ -5887,10 +5887,10 @@
 <display-name>ORBIT TV (480p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel1963">
-<display-name>Órbita FM (720p)</display-name>
+<display-name>Ã“rbita FM (720p)</display-name>
 </channel>
 <channel id="channel1964">
-<display-name>Órbita TV (720p)</display-name>
+<display-name>Ã“rbita TV (720p)</display-name>
 </channel>
 <channel id="channel1965">
 <display-name>Out TV Proud</display-name>
@@ -5962,7 +5962,7 @@
 <display-name>Paragliding TV</display-name>
 </channel>
 <channel id="channel1988">
-<display-name>Paraíso TV (720p)</display-name>
+<display-name>ParaÃ­so TV (720p)</display-name>
 </channel>
 <channel id="channel1989">
 <display-name>Paralelo 20 650 AM (1080p) [Not 24/7]</display-name>
@@ -6064,7 +6064,7 @@
 <display-name>Pelis y Popcorn</display-name>
 </channel>
 <channel id="channel2022">
-<display-name>Peniel Kids & Young (480p)</display-name>
+<display-name>Peniel Kids and Young (480p)</display-name>
 </channel>
 <channel id="channel2023">
 <display-name>Peniel Musical (480p)</display-name>
@@ -6079,10 +6079,10 @@
 <display-name>People TV (1080p)</display-name>
 </channel>
 <channel id="channel2027">
-<display-name>Peppa Pig Français</display-name>
+<display-name>Peppa Pig FranÃ§ais</display-name>
 </channel>
 <channel id="channel2028">
-<display-name>Peravía Visión (480p)</display-name>
+<display-name>PeravÃ­a VisiÃ³n (480p)</display-name>
 </channel>
 <channel id="channel2029">
 <display-name>Perform by Lifetime</display-name>
@@ -6112,7 +6112,7 @@
 <display-name>PHXTV</display-name>
 </channel>
 <channel id="channel2038">
-<display-name>Pickers & Pawn</display-name>
+<display-name>Pickers and Pawn</display-name>
 </channel>
 <channel id="channel2039">
 <display-name>Pinole Community Television (PCTV) Channel 26 (Pinole CA) (480p)</display-name>
@@ -6166,13 +6166,13 @@
 <display-name>Pluto TV Adventure</display-name>
 </channel>
 <channel id="channel2056">
-<display-name>Pluto TV Andrómeda (720p)</display-name>
+<display-name>Pluto TV AndrÃ³meda (720p)</display-name>
 </channel>
 <channel id="channel2057">
 <display-name>Pluto TV Animals</display-name>
 </channel>
 <channel id="channel2058">
-<display-name>Pluto TV Animé Acción (684p)</display-name>
+<display-name>Pluto TV AnimÃ© AcciÃ³n (684p)</display-name>
 </channel>
 <channel id="channel2059">
 <display-name>Pluto TV Archivos Forenses (720p)</display-name>
@@ -6247,7 +6247,7 @@
 <display-name>Pluto TV Cult Films</display-name>
 </channel>
 <channel id="channel2083">
-<display-name>Pluto TV Curro Jiménez (720p)</display-name>
+<display-name>Pluto TV Curro JimÃ©nez (720p)</display-name>
 </channel>
 <channel id="channel2084">
 <display-name>Pluto TV Deportes (720p)</display-name>
@@ -6277,13 +6277,13 @@
 <display-name>Pluto TV El Reino Infantil (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2093">
-<display-name>Pluto TV Empeños a lo bestia (720p) [Not 24/7]</display-name>
+<display-name>Pluto TV EmpeÃ±os a lo bestia (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2094">
 <display-name>Pluto TV EN DIRECTO EN VIVO (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2095">
-<display-name>Pluto TV Estrellas de Acción (720p)</display-name>
+<display-name>Pluto TV Estrellas de AcciÃ³n (720p)</display-name>
 </channel>
 <channel id="channel2096">
 <display-name>Pluto TV Fantastic</display-name>
@@ -6379,7 +6379,7 @@
 <display-name>Pluto TV News</display-name>
 </channel>
 <channel id="channel2127">
-<display-name>Pluto TV Nick Clásico (720p)</display-name>
+<display-name>Pluto TV Nick ClÃ¡sico (720p)</display-name>
 </channel>
 <channel id="channel2128">
 <display-name>Pluto TV Novelas (720p)</display-name>
@@ -6469,7 +6469,7 @@
 <display-name>Pluto TV Suspense</display-name>
 </channel>
 <channel id="channel2157">
-<display-name>Pluto TV Telefe Clásico (720p)</display-name>
+<display-name>Pluto TV Telefe ClÃ¡sico (720p)</display-name>
 </channel>
 <channel id="channel2158">
 <display-name>Pluto TV Telemundo Telenovelas (720p)</display-name>
@@ -6496,13 +6496,13 @@
 <display-name>Pluto TV Truly Canadian</display-name>
 </channel>
 <channel id="channel2166">
-<display-name>Pluto TV Turma da Mônica (720p)</display-name>
+<display-name>Pluto TV Turma da MÃ´nica (720p)</display-name>
 </channel>
 <channel id="channel2167">
 <display-name>Pluto TV Vaya semanita (720p)</display-name>
 </channel>
 <channel id="channel2168">
-<display-name>Pluto TV Velocidad​ (720p)</display-name>
+<display-name>Pluto TV Velocidadâ€‹ (720p)</display-name>
 </channel>
 <channel id="channel2169">
 <display-name>Pluto TV Viajes (720p)</display-name>
@@ -6529,7 +6529,7 @@
 <display-name>pocket.watch</display-name>
 </channel>
 <channel id="channel2177">
-<display-name>POCOYO en FRANÇAIS</display-name>
+<display-name>POCOYO en FRANÃ‡AIS</display-name>
 </channel>
 <channel id="channel2178">
 <display-name>Poker Night in America (1080p)</display-name>
@@ -6538,7 +6538,7 @@
 <display-name>PokerGo</display-name>
 </channel>
 <channel id="channel2180">
-<display-name>Policía TV (480p) [Not 24/7]</display-name>
+<display-name>PolicÃ­a TV (480p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2181">
 <display-name>Pomona Internet Streaming Channel (Pomona CA) (720p)</display-name>
@@ -6586,7 +6586,7 @@
 <display-name>Presencia TV (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2196">
-<display-name>Presumiendo México (720p)</display-name>
+<display-name>Presumiendo MÃ©xico (720p)</display-name>
 </channel>
 <channel id="channel2197">
 <display-name>Prime Asia TV (1080p)</display-name>
@@ -6670,7 +6670,7 @@
 <display-name>R television TV (720p)</display-name>
 </channel>
 <channel id="channel2224">
-<display-name>R&E TV (480p) [Not 24/7]</display-name>
+<display-name>RandE TV (480p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2225">
 <display-name>RAAGA (720p) [Not 24/7]</display-name>
@@ -6682,10 +6682,10 @@
 <display-name>Radar TV 71 (480p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2228">
-<display-name>Radio Ancón (720p)</display-name>
+<display-name>Radio AncÃ³n (720p)</display-name>
 </channel>
 <channel id="channel2229">
-<display-name>Radio Coatán Canal 21 (720p)</display-name>
+<display-name>Radio CoatÃ¡n Canal 21 (720p)</display-name>
 </channel>
 <channel id="channel2230">
 <display-name>Radio Hogar (720p)</display-name>
@@ -6706,49 +6706,49 @@
 <display-name>Radio Reforma Se Oye (720p)</display-name>
 </channel>
 <channel id="channel2236">
-<display-name>Radio Télé 4VEH (720p)</display-name>
+<display-name>Radio TÃ©lÃ© 4VEH (720p)</display-name>
 </channel>
 <channel id="channel2237">
-<display-name>Radio Télé Amen FM (360p) [Not 24/7]</display-name>
+<display-name>Radio TÃ©lÃ© Amen FM (360p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2238">
-<display-name>Radio Télé Eclair (1080p) [Not 24/7]</display-name>
+<display-name>Radio TÃ©lÃ© Eclair (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2239">
 <display-name>Radio Tele Evangile Sans Limite</display-name>
 </channel>
 <channel id="channel2240">
-<display-name>Radio Télé Hit (480p)</display-name>
+<display-name>Radio TÃ©lÃ© Hit (480p)</display-name>
 </channel>
 <channel id="channel2241">
-<display-name>Radio Télé Kajou (480p) [Not 24/7]</display-name>
+<display-name>Radio TÃ©lÃ© Kajou (480p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2242">
-<display-name>Radio Télé Pitit Manman Mari (720p) [Not 24/7]</display-name>
+<display-name>Radio TÃ©lÃ© Pitit Manman Mari (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2243">
 <display-name>Radio Tele Planet Compas (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2244">
-<display-name>Radio Télé Prince (480p)</display-name>
+<display-name>Radio TÃ©lÃ© Prince (480p)</display-name>
 </channel>
 <channel id="channel2245">
-<display-name>Radio Télé Shalom (720p) [Not 24/7]</display-name>
+<display-name>Radio TÃ©lÃ© Shalom (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2246">
-<display-name>Radio Télé Stanne Charitab (480p)</display-name>
+<display-name>Radio TÃ©lÃ© Stanne Charitab (480p)</display-name>
 </channel>
 <channel id="channel2247">
-<display-name>Radio Télé Wisdom (360p) [Not 24/7]</display-name>
+<display-name>Radio TÃ©lÃ© Wisdom (360p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2248">
-<display-name>Radio Télé Yaguana (1080p)</display-name>
+<display-name>Radio TÃ©lÃ© Yaguana (1080p)</display-name>
 </channel>
 <channel id="channel2249">
-<display-name>Radio Télévision Hirondelle (480p)</display-name>
+<display-name>Radio TÃ©lÃ©vision Hirondelle (480p)</display-name>
 </channel>
 <channel id="channel2250">
-<display-name>Radio Télévision Shilo (720p) [Not 24/7]</display-name>
+<display-name>Radio TÃ©lÃ©vision Shilo (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2251">
 <display-name>Radio TV 809 Digital</display-name>
@@ -6763,16 +6763,16 @@
 <display-name>Radio Vida TV (536p)</display-name>
 </channel>
 <channel id="channel2255">
-<display-name>Radio Visión de Dios Stereo (720p) [Not 24/7]</display-name>
+<display-name>Radio VisiÃ³n de Dios Stereo (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2256">
-<display-name>Radio y Televisión Budokan (352p)</display-name>
+<display-name>Radio y TelevisiÃ³n Budokan (352p)</display-name>
 </channel>
 <channel id="channel2257">
-<display-name>Radio y Televisión Crisol de la Alegría (1080p) [Not 24/7]</display-name>
+<display-name>Radio y TelevisiÃ³n Crisol de la AlegrÃ­a (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2258">
-<display-name>Radio y Televisión Martí (720p)</display-name>
+<display-name>Radio y TelevisiÃ³n MartÃ­ (720p)</display-name>
 </channel>
 <channel id="channel2259">
 <display-name>Radio Yaucana TV (720p)</display-name>
@@ -6853,7 +6853,7 @@
 <display-name>Red Apple 21 (Fairfax County Public Schools) (480p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2285">
-<display-name>Red Social Códi TV (360p)</display-name>
+<display-name>Red Social CÃ³di TV (360p)</display-name>
 </channel>
 <channel id="channel2286">
 <display-name>Redbox 1: Spotlight (1080p)</display-name>
@@ -6877,7 +6877,7 @@
 <display-name>Regional MX</display-name>
 </channel>
 <channel id="channel2293">
-<display-name>Reno & Flip</display-name>
+<display-name>Reno and Flip</display-name>
 </channel>
 <channel id="channel2294">
 <display-name>Reno Duo</display-name>
@@ -6901,7 +6901,7 @@
 <display-name>Retro TV (KCKS-LD9) (480p)</display-name>
 </channel>
 <channel id="channel2301">
-<display-name>Retro TV Palmarés (360p) [Not 24/7]</display-name>
+<display-name>Retro TV PalmarÃ©s (360p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2302">
 <display-name>Retrox TV (720p)</display-name>
@@ -6991,7 +6991,7 @@
 <display-name>Royal Time Television (1080p)</display-name>
 </channel>
 <channel id="channel2331">
-<display-name>RT en Español (1080p)</display-name>
+<display-name>RT en EspaÃ±ol (1080p)</display-name>
 </channel>
 <channel id="channel2332">
 <display-name>RT France (1080p) [Geo-blocked]</display-name>
@@ -7021,10 +7021,10 @@
 <display-name>RTV Caraibes (480p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2341">
-<display-name>RTV Católica Canal 40 (1080p)</display-name>
+<display-name>RTV CatÃ³lica Canal 40 (1080p)</display-name>
 </channel>
 <channel id="channel2342">
-<display-name>RTV Chirripó (720p)</display-name>
+<display-name>RTV ChirripÃ³ (720p)</display-name>
 </channel>
 <channel id="channel2343">
 <display-name>Rumba 98.5 FM (720p)</display-name>
@@ -7063,7 +7063,7 @@
 <display-name>Salem News Channel (720p) [Geo-blocked]</display-name>
 </channel>
 <channel id="channel2355">
-<display-name>Salvación TV (720p)</display-name>
+<display-name>SalvaciÃ³n TV (720p)</display-name>
 </channel>
 <channel id="channel2356">
 <display-name>Samuel Goldwyn Classics (720p)</display-name>
@@ -7075,10 +7075,10 @@
 <display-name>San Isidro TV (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2359">
-<display-name>San José TV (1080p)</display-name>
+<display-name>San JosÃ© TV (1080p)</display-name>
 </channel>
 <channel id="channel2360">
-<display-name>San Vito Televisión (720p)</display-name>
+<display-name>San Vito TelevisiÃ³n (720p)</display-name>
 </channel>
 <channel id="channel2361">
 <display-name>Sankhya TV (720p)</display-name>
@@ -7120,10 +7120,10 @@
 <display-name>SCVTV (Santa Clarita CA) (1080p)</display-name>
 </channel>
 <channel id="channel2374">
-<display-name>Señal España (XHUNES-TDT) (720p)</display-name>
+<display-name>SeÃ±al EspaÃ±a (XHUNES-TDT) (720p)</display-name>
 </channel>
 <channel id="channel2375">
-<display-name>Sensación TV (360p)</display-name>
+<display-name>SensaciÃ³n TV (360p)</display-name>
 </channel>
 <channel id="channel2376">
 <display-name>Sent TV Global Network (720p) [Not 24/7]</display-name>
@@ -7132,19 +7132,19 @@
 <display-name>Sent TV Global Network Atlanta (SGTN-49) (720p)</display-name>
 </channel>
 <channel id="channel2378">
-<display-name>Séptimo arte</display-name>
+<display-name>SÃ©ptimo arte</display-name>
 </channel>
 <channel id="channel2379">
 <display-name>Sercano TV (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2380">
-<display-name>Series con Ñ</display-name>
+<display-name>Series con Ã‘</display-name>
 </channel>
 <channel id="channel2381">
-<display-name>SET Televisión Canal 26.1 (720p) [Not 24/7]</display-name>
+<display-name>SET TelevisiÃ³n Canal 26.1 (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2382">
-<display-name>SET Televisión Canal 26.2 (720p) [Not 24/7]</display-name>
+<display-name>SET TelevisiÃ³n Canal 26.2 (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2383">
 <display-name>SET TV 1 (1080p)</display-name>
@@ -7228,7 +7228,7 @@
 <display-name>SINAR (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2410">
-<display-name>Síntesis TV (480p)</display-name>
+<display-name>SÃ­ntesis TV (480p)</display-name>
 </channel>
 <channel id="channel2411">
 <display-name>SIPSE TV 8.1 (1080p) [Not 24/7]</display-name>
@@ -7288,7 +7288,7 @@
 <display-name>Sol TV (720p)</display-name>
 </channel>
 <channel id="channel2430">
-<display-name>Sol TV Morazán (1080p) [Not 24/7]</display-name>
+<display-name>Sol TV MorazÃ¡n (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2431">
 <display-name>Solucion TV (720p)</display-name>
@@ -7321,7 +7321,7 @@
 <display-name>South Park</display-name>
 </channel>
 <channel id="channel2441">
-<display-name>South Park En Français</display-name>
+<display-name>South Park En FranÃ§ais</display-name>
 </channel>
 <channel id="channel2442">
 <display-name>South Park: Cartman Collection</display-name>
@@ -7348,7 +7348,7 @@
 <display-name>Speed Sport 1 (1080p)</display-name>
 </channel>
 <channel id="channel2450">
-<display-name>Spike ¡extremo!</display-name>
+<display-name>Spike Â¡extremo!</display-name>
 </channel>
 <channel id="channel2451">
 <display-name>Spike Adventura (720p)</display-name>
@@ -7546,13 +7546,13 @@
 <display-name>Super Channel Uncovered Canada (720p)</display-name>
 </channel>
 <channel id="channel2516">
-<display-name>Súper Q Panamá (1080p)</display-name>
+<display-name>SÃºper Q PanamÃ¡ (1080p)</display-name>
 </channel>
 <channel id="channel2517">
 <display-name>Super Simple Songs (1080p)</display-name>
 </channel>
 <channel id="channel2518">
-<display-name>Super Truck Français</display-name>
+<display-name>Super Truck FranÃ§ais</display-name>
 </channel>
 <channel id="channel2519">
 <display-name>Super TV 55 (Santiago) (720p) [Not 24/7]</display-name>
@@ -7660,7 +7660,7 @@
 <display-name>TBN Smile (480p)</display-name>
 </channel>
 <channel id="channel2554">
-<display-name>TBN Україна (720p)</display-name>
+<display-name>TBN Ð£ÐºÑ€Ð°Ñ—Ð½Ð° (720p)</display-name>
 </channel>
 <channel id="channel2555">
 <display-name>TCF TV</display-name>
@@ -7678,7 +7678,7 @@
 <display-name>TDN TV (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2560">
-<display-name>TDS Televisión Departamental Sololá (1080p)</display-name>
+<display-name>TDS TelevisiÃ³n Departamental SololÃ¡ (1080p)</display-name>
 </channel>
 <channel id="channel2561">
 <display-name>TDtv (720p)</display-name>
@@ -7699,7 +7699,7 @@
 <display-name>Teenage Mutant Ninja Turtles</display-name>
 </channel>
 <channel id="channel2567">
-<display-name>Telavisión (720p)</display-name>
+<display-name>TelavisiÃ³n (720p)</display-name>
 </channel>
 <channel id="channel2568">
 <display-name>TELE 4 Ojocaliente (720p)</display-name>
@@ -7741,10 +7741,10 @@
 <display-name>Tele Uno (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2581">
-<display-name>Télé-Mag Québec (1080p) [Not 24/7]</display-name>
+<display-name>TÃ©lÃ©-Mag QuÃ©bec (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2582">
-<display-name>Télé-Québec (720p)</display-name>
+<display-name>TÃ©lÃ©-QuÃ©bec (720p)</display-name>
 </channel>
 <channel id="channel2583">
 <display-name>Telealtura (720p)</display-name>
@@ -7786,7 +7786,7 @@
 <display-name>Telecosta (720p)</display-name>
 </channel>
 <channel id="channel2596">
-<display-name>TeleDanlí Canal 9 (720p) [Not 24/7]</display-name>
+<display-name>TeleDanlÃ­ Canal 9 (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2597">
 <display-name>Telefe Noticias (720p) [Not 24/7]</display-name>
@@ -7795,7 +7795,7 @@
 <display-name>Telefides (720p)</display-name>
 </channel>
 <channel id="channel2599">
-<display-name>TeleFórmula (720p) [Geo-blocked]</display-name>
+<display-name>TeleFÃ³rmula (720p) [Geo-blocked]</display-name>
 </channel>
 <channel id="channel2600">
 <display-name>Telefuturo (1080p)</display-name>
@@ -7807,7 +7807,7 @@
 <display-name>Telemar Campeche (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2603">
-<display-name>Telemás (720p)</display-name>
+<display-name>TelemÃ¡s (720p)</display-name>
 </channel>
 <channel id="channel2604">
 <display-name>Telemasters TV (720p)</display-name>
@@ -7837,7 +7837,7 @@
 <display-name>Telemundo Noticias Noreste</display-name>
 </channel>
 <channel id="channel2613">
-<display-name>Telemundo telenovelas clásicas</display-name>
+<display-name>Telemundo telenovelas clÃ¡sicas</display-name>
 </channel>
 <channel id="channel2614">
 <display-name>Telemundo West (720p)</display-name>
@@ -7975,7 +7975,7 @@
 <display-name>Televisa Puebla (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2659">
-<display-name>Televisa Querétaro (720p) [Not 24/7]</display-name>
+<display-name>Televisa QuerÃ©taro (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2660">
 <display-name>Televisa Quintana Roo (1080p) [Not 24/7]</display-name>
@@ -7984,7 +7984,7 @@
 <display-name>Televisa Saltillo (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2662">
-<display-name>Televisa San Luis Potosí (720p) [Not 24/7]</display-name>
+<display-name>Televisa San Luis PotosÃ­ (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2663">
 <display-name>Televisa Sinaloa (720p) [Not 24/7]</display-name>
@@ -8002,7 +8002,7 @@
 <display-name>Televisa Victoria (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2668">
-<display-name>Televisa Yucatán (720p) [Not 24/7]</display-name>
+<display-name>Televisa YucatÃ¡n (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2669">
 <display-name>Televisa Zacatecas (720p) [Not 24/7]</display-name>
@@ -8011,19 +8011,19 @@
 <display-name>Televisiete (480p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2671">
-<display-name>Televisión Comayagua Canal 40 (720p) [Not 24/7]</display-name>
+<display-name>TelevisiÃ³n Comayagua Canal 40 (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2672">
-<display-name>Televisión del Este (720p)</display-name>
+<display-name>TelevisiÃ³n del Este (720p)</display-name>
 </channel>
 <channel id="channel2673">
-<display-name>Télévision La Brise (Ch. 28 Les Cayes) (720p)</display-name>
+<display-name>TÃ©lÃ©vision La Brise (Ch. 28 Les Cayes) (720p)</display-name>
 </channel>
 <channel id="channel2674">
-<display-name>Televisión Metrópolis 19.1 (1080p) [Not 24/7]</display-name>
+<display-name>TelevisiÃ³n MetrÃ³polis 19.1 (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2675">
-<display-name>Televisión Metrópolis 19.2 (1080p) [Not 24/7]</display-name>
+<display-name>TelevisiÃ³n MetrÃ³polis 19.2 (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2676">
 <display-name>Temecula TV (Temecula CA) (1080p)</display-name>
@@ -8272,7 +8272,7 @@
 <display-name>The Ultimate Music Channel (1080p)</display-name>
 </channel>
 <channel id="channel2758">
-<display-name>The Walking Dead en español</display-name>
+<display-name>The Walking Dead en espaÃ±ol</display-name>
 </channel>
 <channel id="channel2759">
 <display-name>The Walking Dead Universe</display-name>
@@ -8281,7 +8281,7 @@
 <display-name>The Wall Street Journal Live (720p)</display-name>
 </channel>
 <channel id="channel2761">
-<display-name>The Weather Channel En Español</display-name>
+<display-name>The Weather Channel En EspaÃ±ol</display-name>
 </channel>
 <channel id="channel2762">
 <display-name>The Weather Network</display-name>
@@ -8356,7 +8356,7 @@
 <display-name>Tiny House Nation</display-name>
 </channel>
 <channel id="channel2786">
-<display-name>Tlaxcala Televisión (360p) [Not 24/7]</display-name>
+<display-name>Tlaxcala TelevisiÃ³n (360p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2787">
 <display-name>TMA (1080p)</display-name>
@@ -8458,7 +8458,7 @@
 <display-name>TOTALLY TURTLES</display-name>
 </channel>
 <channel id="channel2820">
-<display-name>Totovisión (720p)</display-name>
+<display-name>TotovisiÃ³n (720p)</display-name>
 </channel>
 <channel id="channel2821">
 <display-name>Tough Jobs</display-name>
@@ -8485,7 +8485,7 @@
 <display-name>Transformers TV</display-name>
 </channel>
 <channel id="channel2829">
-<display-name>Transmedia Televisión Morelia (614p) [Geo-blocked]</display-name>
+<display-name>Transmedia TelevisiÃ³n Morelia (614p) [Geo-blocked]</display-name>
 </channel>
 <channel id="channel2830">
 <display-name>Travel Adventures with Jeff Swan (1080p)</display-name>
@@ -8494,10 +8494,10 @@
 <display-name>Traverse Area Community Media CommunityTV Channel 189 (Traverse City MI) (1080p) [Geo-blocked]</display-name>
 </channel>
 <channel id="channel2832">
-<display-name>TRC Televisión (720p)</display-name>
+<display-name>TRC TelevisiÃ³n (720p)</display-name>
 </channel>
 <channel id="channel2833">
-<display-name>Trece Costa Rica Televisión (720p) [Not 24/7]</display-name>
+<display-name>Trece Costa Rica TelevisiÃ³n (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2834">
 <display-name>TribunaTV (720p) [Not 24/7]</display-name>
@@ -8539,7 +8539,7 @@
 <display-name>Tu Canal TV (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2847">
-<display-name>Tu Música HD (1080p)</display-name>
+<display-name>Tu MÃºsica HD (1080p)</display-name>
 </channel>
 <channel id="channel2848">
 <display-name>Tu Pop Favorito</display-name>
@@ -8551,10 +8551,10 @@
 <display-name>TUDN</display-name>
 </channel>
 <channel id="channel2851">
-<display-name>TUDN México (540p)</display-name>
+<display-name>TUDN MÃ©xico (540p)</display-name>
 </channel>
 <channel id="channel2852">
-<display-name>Tunevisión (1080p) [Not 24/7]</display-name>
+<display-name>TunevisiÃ³n (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2853">
 <display-name>Turistik TV (720p)</display-name>
@@ -8605,7 +8605,7 @@
 <display-name>TV Centro HD (720p)</display-name>
 </channel>
 <channel id="channel2869">
-<display-name>TV Copán (720p) [Not 24/7]</display-name>
+<display-name>TV CopÃ¡n (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2870">
 <display-name>TV CRET (1080p)</display-name>
@@ -8620,7 +8620,7 @@
 <display-name>TV Cuatro 4.3 (1080p)</display-name>
 </channel>
 <channel id="channel2874">
-<display-name>TV Curré (720p) [Not 24/7]</display-name>
+<display-name>TV CurrÃ© (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2875">
 <display-name>TV Daja (1080p)</display-name>
@@ -8632,7 +8632,7 @@
 <display-name>TV Estrella (720p)</display-name>
 </channel>
 <channel id="channel2878">
-<display-name>TV Éxitos (720p)</display-name>
+<display-name>TV Ã‰xitos (720p)</display-name>
 </channel>
 <channel id="channel2879">
 <display-name>TV Famille (720p)</display-name>
@@ -8641,7 +8641,7 @@
 <display-name>TV Florencia (720p)</display-name>
 </channel>
 <channel id="channel2881">
-<display-name>TV Getsemaní (720p)</display-name>
+<display-name>TV GetsemanÃ­ (720p)</display-name>
 </channel>
 <channel id="channel2882">
 <display-name>TV Guanajuato (720p)</display-name>
@@ -8662,7 +8662,7 @@
 <display-name>TV Land Sitcoms 2</display-name>
 </channel>
 <channel id="channel2888">
-<display-name>TV León de Judá (720p)</display-name>
+<display-name>TV LeÃ³n de JudÃ¡ (720p)</display-name>
 </channel>
 <channel id="channel2889">
 <display-name>TV Libertad (720p)</display-name>
@@ -8683,10 +8683,10 @@
 <display-name>TV Mar Puerto Vallarta (1080p)</display-name>
 </channel>
 <channel id="channel2895">
-<display-name>TV María (720p) [Not 24/7]</display-name>
+<display-name>TV MarÃ­a (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2896">
-<display-name>TV MÁS HD (720p)</display-name>
+<display-name>TV MÃS HD (720p)</display-name>
 </channel>
 <channel id="channel2897">
 <display-name>TV Maya (480p)</display-name>
@@ -8695,13 +8695,13 @@
 <display-name>TV Migrante (720p)</display-name>
 </channel>
 <channel id="channel2899">
-<display-name>TV Montaña Canal 10 (1080p)</display-name>
+<display-name>TV MontaÃ±a Canal 10 (1080p)</display-name>
 </channel>
 <channel id="channel2900">
 <display-name>TV N24 (720p)</display-name>
 </channel>
 <channel id="channel2901">
-<display-name>TV Nuevo León Canal 28 (XHMNL-TDT) (720p)</display-name>
+<display-name>TV Nuevo LeÃ³n Canal 28 (XHMNL-TDT) (720p)</display-name>
 </channel>
 <channel id="channel2902">
 <display-name>TV One (1080p)</display-name>
@@ -8737,7 +8737,7 @@
 <display-name>TV UJAT (XHUJAT-TDT) (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2913">
-<display-name>TV Visión (720p) [Not 24/7]</display-name>
+<display-name>TV VisiÃ³n (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2914">
 <display-name>TV+ Canal 54 (480p)</display-name>
@@ -8749,7 +8749,7 @@
 <display-name>TVC Network (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2917">
-<display-name>TVCa Televisión Católica Arquidiocesana (720p)</display-name>
+<display-name>TVCa TelevisiÃ³n CatÃ³lica Arquidiocesana (720p)</display-name>
 </channel>
 <channel id="channel2918">
 <display-name>TVCARiB (720p) [Not 24/7]</display-name>
@@ -8770,10 +8770,10 @@
 <display-name>TVM El Salvador</display-name>
 </channel>
 <channel id="channel2924">
-<display-name>TVMás (720p)</display-name>
+<display-name>TVMÃ¡s (720p)</display-name>
 </channel>
 <channel id="channel2925">
-<display-name>TVMÁS (XHGV-TDT) (360p) [Not 24/7]</display-name>
+<display-name>TVMÃS (XHGV-TDT) (360p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2926">
 <display-name>TVMAX (720p)</display-name>
@@ -8791,16 +8791,16 @@
 <display-name>TVONE Nicaragua (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2931">
-<display-name>TVP Culiacán (720p) [Not 24/7]</display-name>
+<display-name>TVP CuliacÃ¡n (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2932">
 <display-name>TVP Los Mochis (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2933">
-<display-name>TVP Mazatlán (720p) [Not 24/7]</display-name>
+<display-name>TVP MazatlÃ¡n (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2934">
-<display-name>TVP Obregón (720p) [Not 24/7]</display-name>
+<display-name>TVP ObregÃ³n (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2935">
 <display-name>TVS (540p) [Not 24/7]</display-name>
@@ -8944,10 +8944,10 @@
 <display-name>Unexplained TV (1080p)</display-name>
 </channel>
 <channel id="channel2982">
-<display-name>Única TV (720p) [Not 24/7]</display-name>
+<display-name>Ãšnica TV (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel2983">
-<display-name>UniMás East</display-name>
+<display-name>UniMÃ¡s East</display-name>
 </channel>
 <channel id="channel2984">
 <display-name>Universal Action</display-name>
@@ -9004,7 +9004,7 @@
 <display-name>Vallenato Internacional (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel3002">
-<display-name>Vallevisión (720p)</display-name>
+<display-name>VallevisiÃ³n (720p)</display-name>
 </channel>
 <channel id="channel3003">
 <display-name>Vallevision Canal 10 (720p) [Not 24/7]</display-name>
@@ -9013,7 +9013,7 @@
 <display-name>Valley Shore Community Television (VSCTV) (Clinton CT) (1080p)</display-name>
 </channel>
 <channel id="channel3005">
-<display-name>VAM Vid's & More (720p)</display-name>
+<display-name>VAM Vid's and More (720p)</display-name>
 </channel>
 <channel id="channel3006">
 <display-name>Vanity Fair (720p)</display-name>
@@ -9031,13 +9031,13 @@
 <display-name>VegaTeve (1080p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel3011">
-<display-name>Vegavisión Canal 18 (720p)</display-name>
+<display-name>VegavisiÃ³n Canal 18 (720p)</display-name>
 </channel>
 <channel id="channel3012">
 <display-name>Velayat TV (480p)</display-name>
 </channel>
 <channel id="channel3013">
-<display-name>Venevisión Internacional (720p)</display-name>
+<display-name>VenevisiÃ³n Internacional (720p)</display-name>
 </channel>
 <channel id="channel3014">
 <display-name>VENN (1080p)</display-name>
@@ -9061,7 +9061,7 @@
 <display-name>Vevo Country</display-name>
 </channel>
 <channel id="channel3021">
-<display-name>Vevo Íconos Latinos</display-name>
+<display-name>Vevo Ãconos Latinos</display-name>
 </channel>
 <channel id="channel3022">
 <display-name>Vevo Latino</display-name>
@@ -9070,10 +9070,10 @@
 <display-name>Vevo Pop</display-name>
 </channel>
 <channel id="channel3024">
-<display-name>Vevo R&B</display-name>
+<display-name>Vevo RandB</display-name>
 </channel>
 <channel id="channel3025">
-<display-name>Vevo Reggaeton & Trap</display-name>
+<display-name>Vevo Reggaeton and Trap</display-name>
 </channel>
 <channel id="channel3026">
 <display-name>Vevo Regional Mexicano</display-name>
@@ -9127,13 +9127,13 @@
 <display-name>Vision Global TV (720p)</display-name>
 </channel>
 <channel id="channel3043">
-<display-name>Visión Latina (1080p)</display-name>
+<display-name>VisiÃ³n Latina (1080p)</display-name>
 </channel>
 <channel id="channel3044">
-<display-name>Visión Televisión (720p)</display-name>
+<display-name>VisiÃ³n TelevisiÃ³n (720p)</display-name>
 </channel>
 <channel id="channel3045">
-<display-name>Visión TV (720p)</display-name>
+<display-name>VisiÃ³n TV (720p)</display-name>
 </channel>
 <channel id="channel3046">
 <display-name>VisionNDV TV</display-name>
@@ -9193,7 +9193,7 @@
 <display-name>Wai Lana Yoga (1080p)</display-name>
 </channel>
 <channel id="channel3065">
-<display-name>Waldivisión Internacional (480p)</display-name>
+<display-name>WaldivisiÃ³n Internacional (480p)</display-name>
 </channel>
 <channel id="channel3066">
 <display-name>Walker Texas Ranger</display-name>
@@ -9226,7 +9226,7 @@
 <display-name>WATN-DT1 (1080p)</display-name>
 </channel>
 <channel id="channel3076">
-<display-name>WB Kids Français</display-name>
+<display-name>WB Kids FranÃ§ais</display-name>
 </channel>
 <channel id="channel3077">
 <display-name>WBBJ (Jackson TN) (432p)</display-name>
@@ -9340,7 +9340,7 @@
 <display-name>WDEF-TV News Chattanooga TN (720p)</display-name>
 </channel>
 <channel id="channel3114">
-<display-name>WDWL-DT1 (Teleadoración/Enlace PR) (720p) [Not 24/7]</display-name>
+<display-name>WDWL-DT1 (TeleadoraciÃ³n/Enlace PR) (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel3115">
 <display-name>WeatherNation</display-name>
@@ -9358,7 +9358,7 @@
 <display-name>Weatherspy (720p)</display-name>
 </channel>
 <channel id="channel3120">
-<display-name>WECN (Único TV) (720p)</display-name>
+<display-name>WECN (Ãšnico TV) (720p)</display-name>
 </channel>
 <channel id="channel3121">
 <display-name>West Hollywood WeHoTV (West Hollywood CA) (360p)</display-name>
@@ -9595,7 +9595,7 @@
 <display-name>WXIA-DT1 (1080p)</display-name>
 </channel>
 <channel id="channel3199">
-<display-name>WXWZ-LD1 (MásTV Canal 23) (720p)</display-name>
+<display-name>WXWZ-LD1 (MÃ¡sTV Canal 23) (720p)</display-name>
 </channel>
 <channel id="channel3200">
 <display-name>WXXV-TV News (Biloxi MS) (720p)</display-name>
@@ -9682,7 +9682,7 @@
 <display-name>Yuma AZ CH 73</display-name>
 </channel>
 <channel id="channel3228">
-<display-name>Yunavisión (720p)</display-name>
+<display-name>YunavisiÃ³n (720p)</display-name>
 </channel>
 <channel id="channel3229">
 <display-name>ZAZ</display-name>
@@ -9694,13 +9694,13 @@
 <display-name>ZNS TV (240p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel3232">
-<display-name>ZOE Visión TV (720p)</display-name>
+<display-name>ZOE VisiÃ³n TV (720p)</display-name>
 </channel>
 <channel id="channel3233">
 <display-name>Zol106 (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel3234">
-<display-name>Zona de Acción</display-name>
+<display-name>Zona de AcciÃ³n</display-name>
 </channel>
 <channel id="channel3235">
 <display-name>Zona Music TV (1080p)</display-name>
@@ -9724,10 +9724,10 @@
 <display-name>ZTV (720p) [Not 24/7]</display-name>
 </channel>
 <channel id="channel3242">
-<display-name>Zurquí TV (720p)</display-name>
+<display-name>ZurquÃ­ TV (720p)</display-name>
 </channel>
 <channel id="channel3243">
-<display-name>РТР Планета США</display-name>
+<display-name>Ð Ð¢Ð  ÐŸÐ»Ð°Ð½ÐµÑ‚Ð° Ð¡Ð¨Ð</display-name>
 </channel>
 <channel id="channel3244">
 <display-name>like Gecko) Mobile/15E148"</display-name>
